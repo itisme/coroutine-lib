@@ -1,0 +1,9 @@
+*.o
+*.md
+!README.md
+!README_zh.md
+*.cpp
+*.txt
+CMakeLists.txt
+build.sh
+.vscode/
